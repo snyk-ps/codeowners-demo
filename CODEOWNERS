@@ -1,4 +1,4 @@
-services/python-service @snyk-ps/data-services
-services/java-service @snyk-ps/backend
-services/nodejs-service @snyk-ps/frontend
-infra/* @snyk-ps/cloud
+services/python-service @backend
+services/java-service @backend
+services/nodejs-service @frontend
+infra/* @cloud
